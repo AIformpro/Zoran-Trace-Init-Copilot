@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite as below."
+title: "Zoran Trace Init — Copilot First Chat (Mimetic Imprint)"
+authors:
+  - family-names: Tabary
+    given-names: Frédéric
+date-released: 2025-08-17
+version: 1.0.0
+license: MIT
+url: https://github.com/AIformpro/Zoran-Trace-Init-Copilot
